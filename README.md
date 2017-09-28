@@ -1,2 +1,12 @@
 # cloudAI
 Experiments and templates for machine learning using cloud tools
+
+
+### What's happening at the tool library.ipynb
+A rasbery pi sitting at the Capitol Hill tool library completes an ongoing task:
+* takes a snapshot every minute
+* uploads it to S3
+* waits a minute
+
+The output of that file is here:
+https://s3-us-west-2.amazonaws.com/capitolhilltoollibrary/whats_happening_at_the_library.jpg
