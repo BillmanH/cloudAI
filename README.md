@@ -10,3 +10,7 @@ A rasbery pi sitting at the Capitol Hill tool library completes an ongoing task:
 
 The output of that file is here:
 https://s3-us-west-2.amazonaws.com/capitolhilltoollibrary/whats_happening_at_the_library.jpg
+
+
+### Azure Machine Translate.ipynb
+Quick script to send some text to Azure to get translated. Sometimes you need that. 
