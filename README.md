@@ -14,3 +14,7 @@ https://s3-us-west-2.amazonaws.com/capitolhilltoollibrary/whats_happening_at_the
 
 ### Azure Machine Translate.ipynb
 Quick script to send some text to Azure to get translated. Sometimes you need that. 
+
+
+### Twitter+personality+analysis+using+Watson.ipynb
+text analysis using Watson's out-of-the-box personality scoring
