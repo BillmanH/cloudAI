@@ -1,3 +1,5 @@
+## ** archived ** - all of the good stuff has moved to billmanh/statistics
+
 # cloudAI
 Experiments and templates for machine learning using cloud tools
 
